@@ -9,4 +9,4 @@
 #The outputs are: Launch weight, Launch mass, Net Acceleration during burn, Burnout Velocity, Burnout Height 
 #Estimated Apogee, Total Flight Time, Estimated Range, and multiple points of the x and y position
 
-# A graph of the projected trajectory is also created
+#A graph of the projected trajectory is also created
